@@ -23,7 +23,7 @@ import static com.gluuten.configuration.Constants.URI_POSTS;
 @RestController
 @RequestMapping(value = URI_API_PREFIX)
 public class CommentController {
-
+//ssa
     private static final Logger log = LoggerFactory.getLogger(CommentController.class);
 
     @Autowired
